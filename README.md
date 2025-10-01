@@ -1,5 +1,6 @@
 # i386-static-toolchain
 A static cross-toolchain for i386. Runs on x86_64 but can compile and manipulate i386 programs.
+You can download the last release <a href="https://github.com/miguelgonpam/i386-static-toolchain/releases/tag/i386-static-compiler">here</a>
 
 ## Description
 <p align="justify">
